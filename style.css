@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+    border-radius: 10px;
+}
+
+td {
+    width: 400px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+footer {
+    margin-top: 170px;
+    text-align: center;
+}
+
+input[type=text],
+textarea {
+    padding: 10px;
+    border: 1px solid #CCC;
+    border-radius: 3px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+}
+
